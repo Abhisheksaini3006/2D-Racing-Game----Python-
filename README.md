@@ -26,8 +26,8 @@ This is a simple 2D Racing Game developed in Python using the Pygame library. It
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/2d-racing-game.git
-cd 2d-racing-game
+git clone https://github.com/Abhisheksaini3006/2D-Racing-Game----Python.git
+cd 2D-Racing-Game----Python
 
 # 2. Make sure Python is installed (Python 3.6+ recommended)
 #    You can check with:
@@ -37,10 +37,10 @@ python --version
 pip install pygame
 
 # 4. Run the game
-python racing_game.py
+python game.py
 ```
 
-> ✅ Note: Replace `racing_game.py` with the actual filename if different.
+> ✅ Note: Replace `game.py` with the actual filename if different.
 
 ---
 
